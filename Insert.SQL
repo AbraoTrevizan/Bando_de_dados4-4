@@ -1,0 +1,17 @@
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Goku', DATE '2015-04-09', 13.9, 'branco');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Sakura', DATE '2016-06-06', 14.3, 'preto');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Naruto', DATE '2013-02-08', 11.2, 'laranja');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Luffy', DATE '2015-07-06', 17.1, 'amarelo');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Zoro', DATE '2013-08-01', 13.7, 'verde');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Kirito', DATE '2012-02-03', 12.3, 'preto');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Saitama', DATE '2014-04-06', 13.2, 'cinza');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Ed', DATE '2012-12-10', 13.9, 'azul');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Mikasa', DATE '2020-04-06', 11.6, 'branco');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Levi', DATE '2013-02-04', 17.9, 'preto');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Natsu', DATE '2012-01-03', 11.3, 'vermelho');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Matoi', DATE '2015-05-01', 17.7, 'azul');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Bulma', DATE '2013-07-02', 18.2, 'rosa');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Deku', DATE '2019-11-03', 19.7, 'verde');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Shinra', DATE '2012-09-08', 12.4, 'amarelo');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Tanjiro', DATE '2015-04-06', 11.2, 'laranja');
+INSERT INTO Animais (nome, nasc, peso, cor) VALUES ('Inosuke', DATE '2011-02-03', 14.3, 'marrom');
